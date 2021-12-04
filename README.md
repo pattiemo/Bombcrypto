@@ -5,6 +5,16 @@ My wallet if you guys wanna donate for a good next projects and free scripts
 
 BombBot
 
+function
+
+- refreshing the map every 5 min
+- put the heroes to work every 15 mins
+- auto close all any errors 
+- auto login *not working with hw 
+- auto slide for anti-bot
+- auto new map
+
+
 ศึกษากันเอาเองครับ <3 ทำมาแจก
 only for people who has experiences about progtaming!
 
